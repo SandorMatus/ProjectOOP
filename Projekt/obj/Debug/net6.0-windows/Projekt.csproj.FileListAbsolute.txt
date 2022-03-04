@@ -1,0 +1,15 @@
+E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
