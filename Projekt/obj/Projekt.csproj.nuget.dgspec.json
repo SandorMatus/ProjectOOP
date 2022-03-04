@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projekt Programko\\ProjectOOP\\Projekt\\sdfjk.csproj": {}
+    "C:\\Users\\Matus\\Desktop\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj": {}
   },
   "projects": {
-    "E:\\Projekt Programko\\ProjectOOP\\Projekt\\sdfjk.csproj": {
+    "C:\\Users\\Matus\\Desktop\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\sdfjk.csproj",
-        "projectName": "sdfjk",
-        "projectPath": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\sdfjk.csproj",
-        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\obj\\",
+        "projectUniqueName": "C:\\Users\\Matus\\Desktop\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
+        "projectName": "Projekt",
+        "projectPath": "C:\\Users\\Matus\\Desktop\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
+        "packagesPath": "C:\\Users\\Matus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matus\\Desktop\\OOP\\ProjectOOP\\Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Matus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
