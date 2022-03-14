@@ -1,0 +1,15 @@
+D:\semester_4\OOP\cv6\bin\Debug\net6.0\cv6.exe
+D:\semester_4\OOP\cv6\bin\Debug\net6.0\cv6.deps.json
+D:\semester_4\OOP\cv6\bin\Debug\net6.0\cv6.runtimeconfig.json
+D:\semester_4\OOP\cv6\bin\Debug\net6.0\cv6.dll
+D:\semester_4\OOP\cv6\bin\Debug\net6.0\cv6.pdb
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.csproj.AssemblyReference.cache
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.AssemblyInfoInputs.cache
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.AssemblyInfo.cs
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.csproj.CoreCompileInputs.cache
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.dll
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\refint\cv6.dll
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.pdb
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\cv6.genruntimeconfig.cache
+D:\semester_4\OOP\cv6\obj\Debug\net6.0\ref\cv6.dll
