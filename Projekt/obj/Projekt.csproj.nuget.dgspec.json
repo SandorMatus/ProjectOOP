@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matus\\Desktop\\OOP\\Projekt\\Projekt.csproj": {}
+    "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matus\\Desktop\\OOP\\Projekt\\Projekt.csproj": {
+    "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matus\\Desktop\\OOP\\Projekt\\Projekt.csproj",
+        "projectUniqueName": "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj",
         "projectName": "Projekt",
-        "projectPath": "C:\\Users\\Matus\\Desktop\\OOP\\Projekt\\Projekt.csproj",
+        "projectPath": "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj",
         "packagesPath": "C:\\Users\\Matus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matus\\Desktop\\OOP\\Projekt\\obj\\",
+        "outputPath": "D:\\semester_4\\OOP\\Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matus\\AppData\\Roaming\\NuGet\\NuGet.Config"
