@@ -1,15 +1,30 @@
-E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.exe
-E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
-E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
-E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.dll
-E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.dll
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
+C:\Users\Matus\Desktop\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Matus\Desktop\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Matus\Desktop\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Matus\Desktop\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Matus\Desktop\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+C:\Users\Matus\Desktop\OOP\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
+D:\semester_4\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+D:\semester_4\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+D:\semester_4\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+D:\semester_4\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+D:\semester_4\OOP\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+D:\semester_4\OOP\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll

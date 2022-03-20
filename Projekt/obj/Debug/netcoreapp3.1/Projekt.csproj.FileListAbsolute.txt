@@ -4,11 +4,10 @@ E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\netcoreapp3.1\Projekt.runtimec
 E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
 E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\netcoreapp3.1\Projekt.dll
 E:\Projekt Programko\ProjectOOP\Projekt\bin\Debug\netcoreapp3.1\Projekt.pdb
+E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.dll
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.pdb
 E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.csproj.AssemblyReference.cache
-E:\Projekt Programko\ProjectOOP\Projekt\obj\Debug\netcoreapp3.1\Projekt.GeneratedMSBuildEditorConfig.editorconfig
