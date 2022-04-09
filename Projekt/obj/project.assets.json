@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj",
+      "projectUniqueName": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
       "projectName": "Projekt",
-      "projectPath": "D:\\semester_4\\OOP\\Projekt\\Projekt.csproj",
+      "projectPath": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
       "packagesPath": "C:\\Users\\Matus\\.nuget\\packages\\",
-      "outputPath": "D:\\semester_4\\OOP\\Projekt\\obj\\",
+      "outputPath": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,7 +57,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
+          "Microsoft.WindowsDesktop.App.WPF": {
             "privateAssets": "none"
           }
         },
