@@ -1,0 +1,57 @@
+You wake up in class with an angry Mr. Storm standing over you.
+What do you do ?
+1. Punch 
+2. Cry 
+3. Pee a little.{
+~
+Your fist pounds into Mr. Storm's face. 
+All the other students in class cheer your name. 
+Mrs. Storm hears the commotion and comes to investigate. 
+When she sees her husband crying in the corner, she shoots you with her laser eyes.
+Press 'Enter' to continue}punch}3
+~
+Mr. Storm's face becomes the color of ripe tomatoes. 
+'You wanna cry? Do it out in the hall!' He screams at the top of his lungs. 
+press 'Enter' to continue"}cry}1
+~
+Mr. Storm sniffs the air. The other students begin plugging their noses. 
+'Did you just ...? Get out of here!' He screams at the top of his lungs. 
+press 'Enter' to continue}pee}1
+;
+In the hallway, you see that the cops are searching lockers.
+Do you try hiding in the bathroom, Yer or No?{
+~
+In the hallway, you see your stalker walking toward you.
+Do you try hiding in the bathroom, Yer or No?{
+~
+In the hallway, the fire alarm goes off.
+Do you try hiding in the bathroom, Yer or No?{
+~
+A meteor slams into the school at that exact moment, killing you instantly.}no}3
+~
+You burst into the bathroom and all of your friends and family are there.}yes}1
+;
+You burst into the bathroom and all of your friends and family are there.
+They yell 'Surprise!' and you remember it's your birthday.
+How old are you today ?{
+~
+Wow, you're old! You must have been held back a lot!"
+Press 'Enter' to continue}100}2
+~
+Seriously ? You look older than that!
+How old are you really ?}100}4
+;
+Your birthday party was a big hit.
+The cake gave everyone superpowers
+You will all live for another 100 years.
+Great job! You won!
+Press 'Enter' to start over{
+~
+victory} }0
+;
+At your funeral, they sing songs of your bravery.
+Then they remember who's funeral they are attending and they take it all back.
+Better luck next time
+Press enter to restart{
+~
+game over} }0

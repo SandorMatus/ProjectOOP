@@ -25,22 +25,10 @@ namespace Projekt
         public MainWindow()
         {
             InitializeComponent();
-            mainGame.gameTitle();
             TextUp.Text = mainGame.Display;
         }
         public void changeEvent(){
             mainGame.Input = TextDown.Text;
-            if(mainGame.RepeatSequence == 0){
-                mainGame.answers(sequence++);
-            }else if (mainGame.RepeatSequence == 1){
-                mainGame.answers(sequence - 1);
-            }else if (mainGame.RepeatSequence == 2){
-                mainGame.answers(100100);
-                sequence = 0;
-            }else if (mainGame.RepeatSequence == 3){
-                mainGame.answers(011011);
-                sequence = 0;
-            }
             TextUp.Text = mainGame.Display;
         }
 
