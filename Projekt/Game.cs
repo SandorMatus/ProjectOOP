@@ -70,7 +70,7 @@ namespace Projekt
                     position = splitString.Length - 1;
                 break;
                 case 4://REPEAT
-                    displayText += one.getAnswer(inputBuffer) + one.getCondition(inputBuffer);
+                    displayText += one.getAnswer(inputBuffer);
                 break;
                 default:
                     displayText += "\nInvalid input...";

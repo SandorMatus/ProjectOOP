@@ -6,10 +6,27 @@
         xmlns:local="clr-namespace:Projekt"
         mc:Ignorable="d"
         Title="Student's adventure" Height="450" Width="800">
+<Window.Resources>
+        <ContextMenu x:Key="contextMenu">
+        <MenuItem Header="Speed">
+<Slider                             Name="slider"
+                                    Width="100"
+                                    Minimum="10" 
+                                    Maximum="150" 
+                                    TickFrequency="10" 
+                                    IsSnapToTickEnabled="True"
+                                    Value="{Binding OpacityBackground,Mode=TwoWay}"
+                                    ValueChanged="Slider_ValueChanged"
+                                    >
+                                    </Slider>
+   </MenuItem>
+    </ContextMenu>
+</Window.Resources>
+
     <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-<TextBox Name="TextUp" VerticalAlignment="Stretch" Width="{Binding ElementName=*ParentElement*, Path=ActualWidth}" >Welcome to the game, your name is ?</TextBox>
+<TextBox Name="TextUp" VerticalAlignment="Stretch" Width="{Binding ElementName=*ParentElement*, Path=ActualWidth}" ></TextBox>
 <TextBox Name="TextDown" Height="50" VerticalAlignment="bottom" Width="{Binding ElementName=*ParentElement*, Path=ActualWidth}" KeyDown="OnKeyDownHandler"/>
 
     </Grid>
+    
 </Window>
-

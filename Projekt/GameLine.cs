@@ -79,7 +79,7 @@ namespace Projekt
         }
 
         public int getCondition(string input){//CONDITIONS : 0-start screen, 1-next line, 2-win, 3-lose, 4-repeat
-            if(int.TryParse(expectedAnswers[0], out _) == true){
+            if(int.TryParse(expectedAnswers[0], out _) == true && int.TryParse(input, out _) == true){
                 int parsedInput = int.Parse(input);
                 int range1 = int.Parse(expectedAnswers[1]);
                 int range0 = int.Parse(expectedAnswers[0]);
@@ -109,7 +109,7 @@ namespace Projekt
                 return condition[n];
             }
             }
-            return 6;
+            return 48;
         }
     }
 }
