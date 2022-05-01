@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj": {}
+    "E:\\Projekt Programko\\ProjectOOP\\Projekt\\Projekt.csproj": {}
   },
   "projects": {
-    "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj": {
+    "E:\\Projekt Programko\\ProjectOOP\\Projekt\\Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
+        "projectUniqueName": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\Projekt.csproj",
         "projectName": "Projekt",
-        "projectPath": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\Projekt.csproj",
-        "packagesPath": "C:\\Users\\Matus\\.nuget\\packages\\",
-        "outputPath": "D:\\semester_4\\OOP\\ProjectOOP\\Projekt\\obj\\",
+        "projectPath": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\Projekt.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "E:\\Projekt Programko\\ProjectOOP\\Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

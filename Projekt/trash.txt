@@ -16,7 +16,7 @@
             "\n...\nIn the hallway, the fire alarm goes off."};
             int randomNumber = rnd.Next(0,3);
 
-            displayText += secOptions[randomNumber] + "\n..."+"\nDo you try hiding in the bathroom; Yer or No?";
+            displayText += secOptions[randomNumber] + "\n..."+"\nDo you try hiding in the bathroom; Yes or No?";
 
         }
         public void third(){
@@ -50,6 +50,7 @@
                     case "1":
                     case "punch him":
                     case "punch":
+                    
                         displayText += "\n...."+"\nYour fist pounds into Mr. Storm's face. " + "\nAll the other students in class cheer your name."
                         +"\nMrs. Storm hears the commotion and comes to investigate."+"\nWhen she sees her husband crying in the corner, she shoots you with her laser eyes."
                         +"\nPress 'Enter' to continue";
@@ -57,13 +58,14 @@
                     break;
                     case "2":
                     case "cry":
+                    
                         displayText += "\n...."+"\nMr. Storm's face becomes the color of ripe tomatoes."
                         +"\n'You wanna cry? Do it out in the hall!' He screams at the top of his lungs."
                         +"\n press 'Enter' to continue";
                         second();
                     break;
                     case "3":
-                    case "pee":
+                    case "pee":                    
                     case "pee a little":
                         displayText += "\n...."+"\nMr. Storm sniffs the air. The other students begin plugging their noses."
                         +"\n'Did you just ...? Get out of here!' He screams at the top of his lungs."

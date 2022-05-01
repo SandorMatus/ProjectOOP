@@ -19,13 +19,13 @@ Mr. Storm sniffs the air. The other students begin plugging their noses.
 press 'Enter' to continue}pee}1
 ;
 In the hallway, you see that the cops are searching lockers.
-Do you try hiding in the bathroom, Yer or No?{
+Do you try hiding in the bathroom, Yes or No?{
 ~
 In the hallway, you see your stalker walking toward you.
-Do you try hiding in the bathroom, Yer or No?{
+Do you try hiding in the bathroom, Yes or No?{
 ~
 In the hallway, the fire alarm goes off.
-Do you try hiding in the bathroom, Yer or No?{
+Do you try hiding in the bathroom, Yes or No?{
 ~
 A meteor slams into the school at that exact moment, killing you instantly.}no}3
 ~
